@@ -154,3 +154,6 @@ override.tf.json
 
 # ignore terraform lock
 *.terraform.lock.hcl
+
+# ignore repo metadata
+.repo_metadata/
