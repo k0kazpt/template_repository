@@ -88,6 +88,7 @@ default: .help-message
 
 # Initialization commands
 .repo-init:
+	@mv README_$(REPO_TYPE).md ../README.md
 	@pre-commit install
 	@pre-commit install --hook-type commit-msg
 	@rm -rf ../.chglog
