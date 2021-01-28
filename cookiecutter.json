@@ -1,7 +1,7 @@
 {
     "project_name": "My Project",
-    "author": "Bruno Cochofel",
-    "username": "bcochofel",
-    "email": "bruno.cochofel@gmail.com",
-    "github_url": "https://github.com/bcochofel/{{ project_name }}"
+    "author": "Oscar Patricio",
+    "username": "k0kazpt",
+    "email": "k0kazpt@gmail.com",
+    "github_url": "https://github.com/k0kazpt/{{ project_name }}"
 }
